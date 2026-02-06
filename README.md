@@ -95,6 +95,9 @@
 ### Выполнение реализовано в рамках обучения на DevOps с нуля. 
 
 
+![image](https://github.com/Byzgaev-I/Cloud-AWS-GCP-Yandex-Cloud-OpenStack-/blob/main/YCloud1.png)
+
+
 
 
 
