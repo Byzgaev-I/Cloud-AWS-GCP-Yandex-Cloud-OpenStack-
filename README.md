@@ -98,8 +98,9 @@
 ![image](https://github.com/Byzgaev-I/Cloud-AWS-GCP-Yandex-Cloud-OpenStack-/blob/main/YCloud1.png)
 
 
+### Подготовка облачной инфраструктуры на базе Yandex.Cloud
 
-
+https://github.com/Byzgaev-I/Yandex.Cloud
 
 
 
