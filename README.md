@@ -100,7 +100,8 @@
 
 ### Подготовка облачной инфраструктуры на базе Yandex.Cloud
 
-## [Полное описание проекта на базе Yandex.Cloud]     https://github.com/Byzgaev-I/Yandex.Cloud
+## Полное описание проекта на базе Yandex.Cloud 
+## https://github.com/Byzgaev-I/Yandex.Cloud
 
 
 
